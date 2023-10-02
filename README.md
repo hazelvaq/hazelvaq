@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+**Personal website:** https://hazelvaq.github.io/
+
+
+### What am I up to?
+
+### Experience
+
+### Education
+- MEDS (June 2024): Master of Environmental Data Science @ UC Santa Barbara 
+- BE (2022): Earth System Science and Environmental Engineering @ The City College of New York 
+
 <!--
 **hazelvaq/hazelvaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
