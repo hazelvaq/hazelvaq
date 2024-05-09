@@ -5,6 +5,8 @@
 
 ### What am I up to?
 
+I am currently pursuing a Masters in Environmental Data Science at UC Santa Barbara Bren School.
+
 ### Experience
 
 ### Education
