@@ -2,13 +2,6 @@
 
 **Personal website:** https://hazelvaq.github.io/
 
-
-### What am I up to?
-
-I am currently pursuing a Masters in Environmental Data Science at UC Santa Barbara Bren School.
-
-### Experience
-
 ### Education
 - MEDS (June 2024): Master of Environmental Data Science @ UC Santa Barbara 
 - BE (2022): Earth System Science and Environmental Engineering @ The City College of New York 
